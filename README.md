@@ -1,4 +1,4 @@
-# Project_Selfreplicatingvirus
+# Project_Self Replicating Virus
 
 
 This is Self Replicating Virus which gets installed to non-infected python files once code runs(virus.py)
